@@ -11,184 +11,27 @@
 | **Myntfot**        | 1 guldmark = 160 silverdaler. 1 gulden = 6 silverdaler. 1 silverdaler = 6 styver. 1 styver = 10 vitten. En silverdaler är värd ett silver. |
 # Geografi
 
-Asharien är ett löst sammanhållet rike som dominerar
-Asharinahalvöns östra del, trots ständiga problem med
-torka och politisk splittring. Rikets hjärta utgörs av den
-karga Ashaslätten, en ofruktbar stäpp täckt av knivskarpt,
-blodrött gräs där den inte är för torr för ens denna magra
-växtlighet, och övergår i en rödblek stenöken. Här och var
-grönskar dock landet; i norr och väster tar djupa skogar
-vid, och längs landets fyra stora floder blommar stäppen
-upp i grönska och liv. I söder är det Bzarfloden som skiljer
-Asharien från konungariket Soldarn, tvärs över slätten
-löper den breda och vältrafikerade Järnforsen, längre i norr
-bildar Röda floden gräns mot nordens skogsmarker, och
-längst i norr är den väldiga Raunfloden rikets gräns mot
-de stundtals fientliga grannarna i [[Caserion]], [[Cermira]] och
-[[Drunok]]. Klimatet varierar storligen i riket – i söder, kring
-[[Chadarians Hopp]], är somrarna heta och torra, vintrarna
-ljumma och fuktiga, och vingårdar och olivodlingar präglar
-landskapet, medan rikets norra delar visserligen fortfarande
-har varma somrar, men kalla och snöiga vintrar.
-Endast Ashariens floder, kuster och utkanter lämpar sig
-för jordbruk; Ashaslätten är för karg för att odlas, utan
-här driver istället boskapsskötare sina hjordar av boskap
-fram och åter mellan ännu ej avbetade marker. Det är en
-vild och laglös miljö, där boskapsstölder, stråtröveri och
-vilda bestar gör tillvaron osäker. Den järnhaltiga jorden
-gör gruvdrift till en viktig verksamhet – malmpråmar är en
-vanlig syn på floderna, men även här finns svårnavigerade
-sträckor där flodpirater utgör en fara. Svälten är en ständigt
-överhängande risk, och en som på senare år tycks drabba
-riket allt oftare. Oår och dyrtider följer på varandra, med
-småkrig och desperation som följd, och Asharien har på
-senare år allt oftare tvingats importera stora mängder
-mat. Ändå hänger sig asharierna kvar vid livet, envist
-och halsstarrigt fästa vid sina stadsstater, sitt järnröda
-hemland och sin frihet. Här och var minner mer eller
-mindre outforskade ruiner från forna riken om ett storslaget
-förflutet – eller om övermodet hos dem som
-i forna dagar försökt tämja Ashaslätten.
+Asharien är ett löst sammanhållet rike som dominerar Asharinahalvöns östra del, trots ständiga problem med torka och politisk splittring. Rikets hjärta utgörs av den karga Ashaslätten, en ofruktbar stäpp täckt av knivskarpt, blodrött gräs där den inte är för torr för ens denna magra växtlighet, och övergår i en rödblek stenöken. Här och var grönskar dock landet; i norr och väster tar djupa skogar vid, och längs landets fyra stora floder blommar stäppen upp i grönska och liv. I söder är det Bzarfloden som skiljer Asharien från konungariket Soldarn, tvärs över slätten löper den breda och vältrafikerade Järnforsen, längre i norr bildar Röda floden gräns mot nordens skogsmarker, och längst i norr är den väldiga Raunfloden rikets gräns mot de stundtals fientliga grannarna i [[Caserion]], [[Cermira]] och [[Drunok]]. Klimatet varierar storligen i riket – i söder, kring [[Chadarians Hopp]], är somrarna heta och torra, vintrarna ljumma och fuktiga, och vingårdar och olivodlingar präglar landskapet, medan rikets norra delar visserligen fortfarande har varma somrar, men kalla och snöiga vintrar.
+
+Endast Ashariens floder, kuster och utkanter lämpar sig för jordbruk; Ashaslätten är för karg för att odlas, utan här driver istället boskapsskötare sina hjordar av boskap fram och åter mellan ännu ej avbetade marker. Det är en vild och laglös miljö, där boskapsstölder, stråtröveri och vilda bestar gör tillvaron osäker. Den järnhaltiga jorden gör gruvdrift till en viktig verksamhet – malmpråmar är en vanlig syn på floderna, men även här finns svårnavigerade sträckor där flodpirater utgör en fara. Svälten är en ständigt överhängande risk, och en som på senare år tycks drabba riket allt oftare. Oår och dyrtider följer på varandra, med småkrig och desperation som följd, och Asharien har på senare år allt oftare tvingats importera stora mängder mat. Ändå hänger sig asharierna kvar vid livet, envist och halsstarrigt fästa vid sina stadsstater, sitt järnröda hemland och sin frihet. Här och var minner mer eller mindre outforskade ruiner från forna riken om ett storslaget förflutet – eller om övermodet hos dem som i forna dagar försökt tämja Ashaslätten.
 
 # Historia & Politik
 
-Asharien är inget enat rike på samma vis som Jargien eller [[Damarien]], utan
-en union av tio tämligen självständiga stadsstater, eller jarladömen. Dessa
-varierar i storlek och makt, liksom i hur de utser sina frijarlar, men alla går
-de mer eller mindre motsträvigt med på att upprätthålla ett förbund för att värna
-sig mot landgiriga grannar. Därtill är de visa av historien. Asharien har sällan
-varit imperiers hjärta, men desto oftare en skådeplats för deras erövringar –
-uråldriga Danarth, förlorade Ramora, högbrynta Colonan och senast Cirefaliska
-samväldet, som mellan år 1192 och 1753 efter Daak behärskade vad de kallade Asharion, och enbart med stor möda slogs bort i ett hänsynslöst frihetskrig. Sagorna
-är många om de hjältemodiga män och kvinnor som, med hjälp av Sunariskogens
-alver och ett märkligt ingripande av de långväga forianerna, stred för sitt rikes
-frihet. Frihetskämparnas härförare Xerim sägs ha burit ett legendariskt vapen
-kallat Solsvärdet och med detta dräpt cirefaliernas ledare Tamizier efter en
-långdragen gerillakampanj. Kanhända är detta ett tecken på att samorismens
-solgudar ler särskilt över Asharien – det var nämligen i staden Nada som deras
-främste profet, den blinde mattknytaren Samor, mottog sina uppenbarelser år
-955 efter Daak, något som också satte asharierna på kollisionskurs med den
-tidigare dominerande Daakkyrkan. De Daaktroende härskarna i [[Jargien]], [[Drunok]] och [[Cermira]] har
-alla tid efter annan utropat korståg mot Asharien, nu senast
-för tjugofem år sedan då de nesliga cermirierna med stöd från
-jargiska inkvisitorer angrep trakterna kring Jarla. Utöver
-dessa händelser har asharierna ofta funnit sig indragna
-i främmande folkslags konflikter, allt ifrån forntidens
-stora krig mellan alver och dvärgar till det fruktansvärda
-trollens härjningar för femtio år sedan, då landet sydliga
-delar plundrades av till synes vansinniga skogstroll.
-Asharien är för tillfället välsignat med en frijarl, Anstir
-Tyldon, som anses både karismatisk och klok. Trots detta
-lider riket ont under svält, sjukdom och laglöshet – inte ens
-den rimliga sortens laglöshet som de flesta asharier kan fördra,
-som lättköpta tullare och handfast gränsbygdsrättvisa.
-Istället handlar det om ständiga härjningar av den cirefaliska
-avfällingen Vrimzikiel, ledare för en fredlös legoknektshär i
-rikets norra gränstrakter – för att inte nämna korsarkrigen,
-en utdragen konflikt med pirater i Rhungsjön i öst. Utöver
-detta finns en ständig oro för såväl yttre fiender som inre
-splittring. Även om relationerna med den cirefaliska
-kolonin Caserion nominellt är goda litar ingen asharier
-riktigt på cirefalier, och den mestadels goda grannen [[Soldarn]]
-härjas av såväl ett pågående inbördeskrig som ett nyligen
-utropat jargiskt korståg som mycket väl skulle kunna sprida
-sig norrut. Inom unionen har hamnstaden Vernryd ställt
-allt ljudligare krav på att bli ett eget jarladöme, något som
-skulle kunna orsaka ytterligare konflikter. Det är en allt
-mer prövad jarlaunion frijarl Tyldon har att hålla ihop.
+Asharien är inget enat rike på samma vis som Jargien eller [[Damarien]], utan en union av tio tämligen självständiga stadsstater, eller jarladömen. Dessa varierar i storlek och makt, liksom i hur de utser sina frijarlar, men alla går de mer eller mindre motsträvigt med på att upprätthålla ett förbund för att värna sig mot landgiriga grannar. Därtill är de visa av historien. Asharien har sällan varit imperiers hjärta, men desto oftare en skådeplats för deras erövringar – uråldriga Danarth, förlorade Ramora, högbrynta Colonan och senast Cirefaliska samväldet, som mellan år 1192 och 1753 efter Daak behärskade vad de kallade Asharion, och enbart med stor möda slogs bort i ett hänsynslöst frihetskrig. Sagorna är många om de hjältemodiga män och kvinnor som, med hjälp av Sunariskogens alver och ett märkligt ingripande av de långväga forianerna, stred för sitt rikes frihet. FrihetskämpWarnas härförare Xerim sägs ha burit ett legendariskt vapen kallat Solsvärdet och med detta dräpt cirefaliernas ledare Tamizier efter en långdragen gerillakampanj. Kanhända är detta ett tecken på att samorismens solgudar ler särskilt över Asharien – det var nämligen i staden Nada som deras främste profet, den blinde mattknytaren Samor, mottog sina uppenbarelser år 955 efter Daak, något som också satte asharierna på kollisionskurs med den tidigare dominerande Daakkyrkan. De Daaktroende härskarna i [[Jargien]], [[Drunok]] och [[Cermira]] har alla tid efter annan utropat korståg mot Asharien, nu senast för tjugofem år sedan då de nesliga cermirierna med stöd från jargiska inkvisitorer angrep trakterna kring Jarla. Utöver dessa händelser har asharierna ofta funnit sig indragna i främmande folkslags konflikter, allt ifrån forntidens stora krig mellan alver och dvärgar till det fruktansvärda trollens härjningar för femtio år sedan, då landet sydliga delar plundrades av till synes vansinniga skogstroll.
+
+Asharien är för tillfället välsignat med en frijarl, Anstir Tyldon, som anses både karismatisk och klok. Trots detta lider riket ont under svält, sjukdom och laglöshet – inte ens den rimliga sortens laglöshet som de flesta asharier kan fördra, som lättköpta tullare och handfast gränsbygdsrättvisa. Istället handlar det om ständiga härjningar av den cirefaliska avfällingen Vrimzikiel, ledare för en fredlös legoknektshär i rikets norra gränstrakter – för att inte nämna korsarkrigen, en utdragen konflikt med pirater i Rhungsjön i öst. Utöver detta finns en ständig oro för såväl yttre fiender som inre splittring. Även om relationerna med den cirefaliska kolonin Caserion nominellt är goda litar ingen asharier riktigt på cirefalier, och den mestadels goda grannen [[Soldarn]] härjas av såväl ett pågående inbördeskrig som ett nyligen utropat jargiskt korståg som mycket väl skulle kunna sprida sig norrut. Inom unionen har hamnstaden Vernryd ställt allt ljudligare krav på att bli ett eget jarladöme, något som skulle kunna orsaka ytterligare konflikter. Det är en allt mer prövad jarlaunion frijarl Tyldon har att hålla ihop.
 
 # Samhälle & Kultur
 
-Det ashariska samhället har, liksom alla andra riken,
-hierarkier, men de är sällan lika påfallande som i andra
-länder och kanske något viktigare: de är inte lika definierade
-av börd och födsel. Överst på samhällsstegen finner man
-frijarlarna, ledare över de mäktiga och närapå självständiga
-jarladömena. Dessa positioner ärvs inte, utan istället
-tillsätts frijarlarna på olika sätt beroende på vilken stad
-det handlar om; ibland ett halvdemokratiskt val för stadens
-alla invånare, ibland en omröstning via stadens elit och
-ibland säkras makten med bön eller blod. Under jarlarna
-finner man stormännen, viktiga och inflytelserika män
-och kvinnor som närmast kan liknas vid en typisk adel, i
-den mening att de äger mark och har rätt att ta ut skatt där,
-men positionen ärvs sällan. Istället tillsätts stormän som
-vilket ämbete som helst och stormän som inte sköter sig
-kan snart se sin makt som bortspolad när frijarlen tillsätter
-någon annan. Under stormännen finns prästerskapet, som
-ofta besitter både andlig och världslig makt; borgarna, vars
-rikaste företrädare återfinns i de mäktiga handelshusen; och
-slutligen bönderna, som i Asharien är särskilt svultna och
-fattiga, men iallafall njuter av sin relativa frihet. Träldom
-och livegenskap förekommer inte, och asharierna ser
-i allmänhet detta som moraliskt förkastligt – även om
-skuldsatta asharier ofta tvingas in i arbetssituationer som
-i praktiken inte ligger långt därifrån.
-Om man var tvungen att beskriva en asharier med ett ord
-skulle nog de flesta, från Jargien i väst till Consaber i öst,
-beskriva ashariern som egensinnig. Det finns få saker en
-asharier avskyr mer än när någon annan ska bestämma hur
-hon ska leva sitt liv, oavsett om det handlar om religion,
-markrättigheter, hur hon ska klä sig eller hur hon ska tilltala
-någon. Ashariern har också en fixering på tanken att med
-hårt arbete kan vem som helst lyckas och det spelar ingen
-roll vilken familj du är född i. Således präglar individualism
-mången ashariers identitet, särskilt i städerna. Utländska
-dignitärer har många gånger upprörts över hur ohyfsade
-de lägre klasserna är och soldiska adelsmän fasas över hur
-bönderna verkar göra ”vad de än vill” istället för att buga
-inför överheten som sig bör. Synen på att man är sin egen
-lyckas smed har dock en baksida – en svältande asharier
-får sällan några generösa allmosor eller andra typer av
-givmildhet. Om den svältande mannen bara arbetat hårdare
-kanske han inte suttit där utan mat och det är hans eget
-ansvar att lösa sin olycka.
-Uppror har dessutom en central roll i ashariska legender
-samt dess historieskrivning och det har skapat en
-aningen instabil landsbygd, särskilt i kombination med
-den torra jorden där det räcker med en dålig skörd för
-att svältkatastrofen ska stå runt hörnet. Viljan att ta till
-stridsyxan har också gjort bönderna svåra att beskatta,
-vilket i sin tur gör att jarladömena ofta är beroende av lån,
-gruvdrift, tullar, avgifter och andra tekniker för att hålla
-sin ekonomi fungerande.
-Synen på könsroller är djupt cementerad i det ashariska
-samhället, men inte alltid med helt samma regler som
-förväntas av män och kvinnor på andra platser i världen.
-Inflytandet från både de matriarkala tirakerna och
-Elianadyrkan, där gudomen självt samt en majoritet av
-prästerskapet är kvinnligt, har fått orden ’makt’ och ’kvinna’
-att bli närmast synonyma på landsbygden. Byäldsten är
-nästan alltid en kvinna och gårdens nycklar, den fysiska
-representationen för både makt och ekonomi i småbyarna,
-tillhör också gårdsfrun. I viktiga beslut som rör gårdens eller
-byns framtid är det allt som oftast kvinnorna, särskilt de
-äldre, som tar besluten.
-I städerna har man istället påverkats av alviska och dvärgiska
-koncept vilka är långt mer egalitära. Liksom dvärgarnas
-kungatitel och alvernas husfurstämbete ser asharierna på
-titeln frijarl och handelsfurste som tillgängliga för både
-män och kvinnor. Med det sagt finns det sfärer där män
-och kvinnor är olika representerade, till exempel är det
-vanligare med manliga soldater än kvinnliga medan flera
-olika hantverksyrken är mer eller mindre helt dominerade
-av kvinnor. Detta tar sig även uttryck i prästerskapet som
-är tudelat, ett manligt och ett kvinnligt, som har varsin
-sfär med egna ritualer och hemligheter.
+Det ashariska samhället har, liksom alla andra riken, hierarkier, men de är sällan lika påfallande som i andra länder och kanske något viktigare: de är inte lika definierade av börd och födsel. Överst på samhällsstegen finner man frijarlarna, ledare över de mäktiga och närapå självständiga jarladömena. Dessa positioner ärvs inte, utan istället tillsätts frijarlarna på olika sätt beroende på vilken stad det handlar om; ibland ett halvdemokratiskt val för stadens alla invånare, ibland en omröstning via stadens elit och ibland säkras makten med bön eller blod. Under jarlarna finner man stormännen, viktiga och inflytelserika män och kvinnor som närmast kan liknas vid en typisk adel, i den mening att de äger mark och har rätt att ta ut skatt där, men positionen ärvs sällan. Istället tillsätts stormän som vilket ämbete som helst och stormän som inte sköter sig kan snart se sin makt som bortspolad när frijarlen tillsätter någon annan. Under stormännen finns prästerskapet, som ofta besitter både andlig och världslig makt; borgarna, vars rikaste företrädare återfinns i de mäktiga handelshusen; och slutligen bönderna, som i Asharien är särskilt svultna och fattiga, men iallafall njuter av sin relativa frihet. Träldom och livegenskap förekommer inte, och asharierna ser i allmänhet detta som moraliskt förkastligt – även om skuldsatta asharier ofta tvingas in i arbetssituationer som i praktiken inte ligger långt därifrån.
+
+Om man var tvungen att beskriva en asharier med ett ord skulle nog de flesta, från Jargien i väst till Consaber i öst, beskriva ashariern som egensinnig. Det finns få saker en asharier avskyr mer än när någon annan ska bestämma hur hon ska leva sitt liv, oavsett om det handlar om religion, markrättigheter, hur hon ska klä sig eller hur hon ska tilltala någon. Ashariern har också en fixering på tanken att med hårt arbete kan vem som helst lyckas och det spelar ingen roll vilken familj du är född i. Således präglar individualism mången ashariers identitet, särskilt i städerna. Utländska dignitärer har många gånger upprörts över hur ohyfsade de lägre klasserna är och soldiska adelsmän fasas över hur bönderna verkar göra ”vad de än vill” istället för att buga inför överheten som sig bör. Synen på att man är sin egen lyckas smed har dock en baksida – en svältande asharier får sällan några generösa allmosor eller andra typer av givmildhet. Om den svältande mannen bara arbetat hårdare kanske han inte suttit där utan mat och det är hans eget ansvar att lösa sin olycka.
+
+Uppror har dessutom en central roll i ashariska legender samt dess historieskrivning och det har skapat en aningen instabil landsbygd, särskilt i kombination med den torra jorden där det räcker med en dålig skörd för att svältkatastrofen ska stå runt hörnet. Viljan att ta till stridsyxan har också gjort bönderna svåra att beskatta, vilket i sin tur gör att jarladömena ofta är beroende av lån, gruvdrift, tullar, avgifter och andra tekniker för att hålla sin ekonomi fungerande.
+
+Synen på könsroller är djupt cementerad i det ashariska samhället, men inte alltid med helt samma regler som förväntas av män och kvinnor på andra platser i världen. Inflytandet från både de matriarkala tirakerna och Elianadyrkan, där gudomen självt samt en majoritet av prästerskapet är kvinnligt, har fått orden ’makt’ och ’kvinna’ att bli närmast synonyma på landsbygden. Byäldsten är nästan alltid en kvinna och gårdens nycklar, den fysiska representationen för både makt och ekonomi i småbyarna, tillhör också gårdsfrun. I viktiga beslut som rör gårdens eller byns framtid är det allt som oftast kvinnorna, särskilt de äldre, som tar besluten.
+
+I städerna har man istället påverkats av alviska och dvärgiska koncept vilka är långt mer egalitära. Liksom dvärgarnas kungatitel och alvernas husfurstämbete ser asharierna på titeln frijarl och handelsfurste som tillgängliga för både män och kvinnor. Med det sagt finns det sfärer där män och kvinnor är olika representerade, till exempel är det vanligare med manliga soldater än kvinnliga medan flera olika hantverksyrken är mer eller mindre helt dominerade av kvinnor. Detta tar sig även uttryck i prästerskapet som är tudelat, ett manligt och ett kvinnligt, som har varsin sfär med egna ritualer och hemligheter.
 
 ## Blandade spelgrupper
-Eftersom landet inte är svårt plågat av någon särskilt
-extrem rasism eller religionsfobi, utöver avskyn för
-den jargiska moderkyrkan och en allmän misstro mot
-cirefalier, är det lätt att svetsa samman mycket färgglada
-äventyrsgrupper med rollpersoner från världens alla
-hörn. I den väldiga [[Sunariskogen]] i väst finns det
-dessutom thism-, sanari-, kiriya- och henéaalver vilka
-alla kan färdas fritt i landet. Pyaralver, zoloddvärgar och
-misslor dominerar i varsitt jarladöme, och i nästan alla
-större städer bor det dessutom tiraker av alla typer. Att
-resa in och ut ur landet är inte heller något problem och
-skulle man hamna i trubbel i en stad är det lätt att fly
-till en annan och söka nya möjligheter för framgång där
-istället. Man bör dock ha ögon i nacken då prisjägare
-kan lura runt varje hörn.
+Eftersom landet inte är svårt plågat av någon särskilt extrem rasism eller religionsfobi, utöver avskyn för den jargiska moderkyrkan och en allmän misstro mot cirefalier, är det lätt att svetsa samman mycket färgglada äventyrsgrupper med rollpersoner från världens alla hörn. I den väldiga [[Sunariskogen]] i väst finns det dessutom thism-, sanari-, kiriya- och henéaalver vilka alla kan färdas fritt i landet. Pyaralver, zoloddvärgar och misslor dominerar i varsitt jarladöme, och i nästan alla större städer bor det dessutom tiraker av alla typer. Att resa in och ut ur landet är inte heller något problem och skulle man hamna i trubbel i en stad är det lätt att fly till en annan och söka nya möjligheter för framgång där istället. Man bör dock ha ögon i nacken då prisjägare kan lura runt varje hörn.
