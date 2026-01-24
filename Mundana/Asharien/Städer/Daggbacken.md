@@ -1,3 +1,3 @@
-# Daggbacken
-
+#stad/Daggbacken
+#Asharien
 Daggbacken är endast i teorin en stad, utan utgör snarare centralorten i ett pärlband av byar som sträcker sig utmed Glitterfloden längs gränsen mot Drunok. Jarladömet Daggbacken är unikt såtillvida att majoritetsbefolkningen och styret utgörs av misslor, den enda kända platsen på Mundana där detta anspråkslösa folk har så stark politisk representation. Kraggfolket, vilka av religiösa skäl vördar misslorna, har också sin största närvaro utanför Kraggbergen här. Detta gör att lystna plundrare avskräcks från att ge sig på de små liven.

@@ -1,3 +1,3 @@
-# Chadarians hopp
+#stad/Chadarians-hopp
 
 Söder om Camard finner man Chadarians hopp, en stad som blivit världsberömd för sina akademier och Det stora universitetet, en läroplats där studenter från avlägsna Forion och Ebhron studerar sida vid sida med ashariska studenter. Staden präglas då och då av våldsamheter mellan de otyglade studenterna och de besuttna borgarna. De sistnämnda har en sund misstänksamhet mot de många magiska experiment som med jämna mellanrum får spektakulära följder, allra värst under "de dödas krig" för snart sexhundra år sedan då en nekromantiker väckte en här av vandöda som förhärjade landsändan.
