@@ -1,3 +1,3 @@
-#stad/Camard
+#stad #Asharien
 
 Landets huvudstad ligger längs med östkusten, vid Järnforsens utlopp, blickande ut mot Rhungsjön. Handeln i hamnen har gjort Camard till en metropol där sjöfarare och krämare från världens alla hörn samlas för att utbyta varor. På grund av torkan och svälten har stadsmurarna omringats av flyktingar från landsbygden som försöker ta sig in i staden i hopp om att tigga eller få arbete, men smutsigt patrask stoppas bryskt av vakterna vid stadens portar. Handelsfurstarna utgör en stark politisk maktfaktor stundtals intrigerande mot varandra, stundtals enade i det mäktiga köpmannagillet Camards Väl under ledning av den listige köpmannen Belrusnagg Ockerman.
