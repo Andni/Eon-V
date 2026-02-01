@@ -1,0 +1,3 @@
+#poi #Damarien
+
+Den mörka Järvskogen skär sånär av Damariens norra delar från resten av landet, och behärskas av thism-alverna i bosätt ningen Sholye Hen’oro. Längst med kusten knyter en lands väg samman ett pärlband av små människo-bosättningar. Alvernas relation till damarierna är frostig, och där till finns än farligare ting – skuggfolk, monster och den sägen om spunna Bottenlösa myren, vilken sägs hem sökas av osaliga döda från alvernas och dvärgarnas forntida krig.
